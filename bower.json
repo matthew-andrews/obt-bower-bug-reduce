@@ -1,1 +1,6 @@
-{}
+{
+  "name": "obt-bower-bug-reduce",
+  "dependencies": {
+    "o-gallery": "~1.7.4"
+  }
+}
